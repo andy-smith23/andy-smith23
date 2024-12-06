@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @andy-smith23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning in basics in programing language C\C++, HTML, Css and Python ...
-- 💞️ I’m looking to collaborate on your team which are expert in progrming and also in machine learnings...
-- 📫 How to reach me please contact me at my messenger Mark Andy Legarde...
+👋 Hi, I’m Mark Andy Legarde (@andy-smith23)
 
-<!---
-andy-smith23/andy-smith23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests: I'm deeply interested in programming, web development, and exploring the world of machine learning.
+
+🌱 Currently Learning: I'm building a solid foundation in programming with C/C++, HTML, CSS, and Python, aiming to expand my expertise further.
+
+💞️ Looking to Collaborate: I'm eager to collaborate with experienced developers and teams specializing in programming and machine learning projects.
+
+📫 How to Reach Me:
+
+Messenger: Mark Andy Legarde
+
+Phone: +63 970 786 3337
+
+
